@@ -1939,11 +1939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp.Android\\MyFirstApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp.Android\\MyFirstApp.Android.csproj",
       "projectName": "MyFirstApp.Android",
-      "projectPath": "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp.Android\\MyFirstApp.Android.csproj",
+      "projectPath": "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp.Android\\MyFirstApp.Android.csproj",
       "packagesPath": "C:\\Users\\KlayG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1964,8 +1964,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj": {
-              "projectPath": "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj"
+            "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp\\MyFirstApp.csproj": {
+              "projectPath": "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp\\MyFirstApp.csproj"
             }
           }
         }

@@ -4,7 +4,7 @@
              x:Class="MyFirstApp.MainPage">
 
     <StackLayout>
-        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+        <Frame BackgroundColor="Red" Padding="24" CornerRadius="0">
             <Label Text="See you later my friend!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36" TextDecorations="Strikethrough"/>
         </Frame>
         <Label Text="Start chilling now" FontSize="Title" Padding="30,10,30,10"/>

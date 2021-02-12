@@ -12,3 +12,17 @@ C:\Users\KlayG\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\XamlC
 C:\Users\KlayG\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.dll
 C:\Users\KlayG\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\ref\MyFirstApp.dll
 C:\Users\KlayG\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.pdb
+C:\Users\KlayG\OneDrive\Escritorio\Practica\MyFirstApp\bin\Debug\netstandard2.0\MyFirstApp.deps.json
+C:\Users\KlayG\OneDrive\Escritorio\Practica\MyFirstApp\bin\Debug\netstandard2.0\MyFirstApp.dll
+C:\Users\KlayG\OneDrive\Escritorio\Practica\MyFirstApp\bin\Debug\netstandard2.0\ref\MyFirstApp.dll
+C:\Users\KlayG\OneDrive\Escritorio\Practica\MyFirstApp\bin\Debug\netstandard2.0\MyFirstApp.pdb
+C:\Users\KlayG\OneDrive\Escritorio\Practica\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.csprojAssemblyReference.cache
+C:\Users\KlayG\OneDrive\Escritorio\Practica\MyFirstApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\KlayG\OneDrive\Escritorio\Practica\MyFirstApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\KlayG\OneDrive\Escritorio\Practica\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.AssemblyInfoInputs.cache
+C:\Users\KlayG\OneDrive\Escritorio\Practica\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.AssemblyInfo.cs
+C:\Users\KlayG\OneDrive\Escritorio\Practica\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\KlayG\OneDrive\Escritorio\Practica\MyFirstApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\KlayG\OneDrive\Escritorio\Practica\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.dll
+C:\Users\KlayG\OneDrive\Escritorio\Practica\MyFirstApp\obj\Debug\netstandard2.0\ref\MyFirstApp.dll
+C:\Users\KlayG\OneDrive\Escritorio\Practica\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.pdb

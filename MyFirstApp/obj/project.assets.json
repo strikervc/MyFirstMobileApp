@@ -637,11 +637,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
+      "projectUniqueName": "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp\\MyFirstApp.csproj",
       "projectName": "MyFirstApp",
-      "projectPath": "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
+      "projectPath": "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp\\MyFirstApp.csproj",
       "packagesPath": "C:\\Users\\KlayG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp\\obj\\",
+      "outputPath": "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

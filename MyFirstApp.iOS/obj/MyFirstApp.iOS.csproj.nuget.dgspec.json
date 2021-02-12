@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp.iOS\\MyFirstApp.iOS.csproj": {}
+    "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp.iOS\\MyFirstApp.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp.iOS\\MyFirstApp.iOS.csproj": {
+    "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp.iOS\\MyFirstApp.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp.iOS\\MyFirstApp.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp.iOS\\MyFirstApp.iOS.csproj",
         "projectName": "MyFirstApp.iOS",
-        "projectPath": "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp.iOS\\MyFirstApp.iOS.csproj",
+        "projectPath": "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp.iOS\\MyFirstApp.iOS.csproj",
         "packagesPath": "C:\\Users\\KlayG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp.iOS\\obj\\",
+        "outputPath": "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj": {
-                "projectPath": "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj"
+              "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp\\MyFirstApp.csproj": {
+                "projectPath": "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp\\MyFirstApp.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj": {
+    "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp\\MyFirstApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
+        "projectUniqueName": "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp\\MyFirstApp.csproj",
         "projectName": "MyFirstApp",
-        "projectPath": "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
+        "projectPath": "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp\\MyFirstApp.csproj",
         "packagesPath": "C:\\Users\\KlayG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KlayG\\source\\repos\\MyFirstApp\\MyFirstApp\\obj\\",
+        "outputPath": "C:\\Users\\KlayG\\OneDrive\\Escritorio\\Practica\\MyFirstApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
